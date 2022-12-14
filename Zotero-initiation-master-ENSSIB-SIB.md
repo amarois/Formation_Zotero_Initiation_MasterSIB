@@ -13,7 +13,7 @@ Installer un environnement de travail complet basé sur Zotero consiste à :
 2. installer un second élément, le « Zotero connector », qui est une *extension de votre navigateur web* qui va faciliter la collecte de références
 3. vérifier qu’un 3e élément, le *plugin* Zotero pour traitement de texte, s’est installé automatiquement dans votre traitement de texte préféré (Word, LibreOffice)
 
-![zotero_environnement-complet.png](img\zotero_environnement-complet.png)
+![zotero_environnement-complet.png](img/zotero_environnement-complet.png)
 
 
 Dans un second temps, il est recommandé (car très utile) de se créer un compte sur le site zotero.org, mais *cela n'est pas indispensable* à l'utilisation du logiciel Zotero. Sachez cependant que créer un compte sur Zotero.org permettra : 
@@ -194,10 +194,10 @@ Consigne : expérimentez la collaboration au sein d'un groupe Zotero en demandan
 
 Sujet (proposition pour le 15/12/2022) : **"Veille sur ChatGPT : technologie, applications, impact sociétaux"**
 
-![58a341e9047d2c80d73dffe15a59b265.png](img\58a341e9047d2c80d73dffe15a59b265.png)
+![58a341e9047d2c80d73dffe15a59b265.png](img/58a341e9047d2c80d73dffe15a59b265.png)
 
 
 
 
 
-![zotero_master-SIB_groups_join.png](./img\zotero_master-SIB_groups_join.png)
+![zotero_master-SIB_groups_join.png](./img/zotero_master-SIB_groups_join.png)
