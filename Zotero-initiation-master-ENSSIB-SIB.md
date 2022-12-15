@@ -52,7 +52,7 @@ Consigne : [utilisez l'extension Zotero](https://www.zotero.org/support/adding_i
 1. [https://www.cairn.info/revue-i2d-information-donnees-et-documents-2022-1-page-8.htm](https://www.cairn.info/revue-i2d-information-donnees-et-documents-2022-1-page-8.htm)
 2. [https://books.openedition.org/oep/14732](https://books.openedition.org/oep/14732)
 3. [https://www.theses.fr/2021HESAC031](https://www.theses.fr/2021HESAC031)
-4. [https://www.worldcat.org/fr/title/1269475137](https://www.worldcat.org/fr/title/1269475137)
+4. https://www.sudoc.fr/257245073
 5. [https://dumas.ccsd.cnrs.fr/dumas-03878231](https://dumas.ccsd.cnrs.fr/dumas-03878231)
 
 Bonus : importez les 10 premières références sur la page de résultats Google Scholar pointée par ce lien **en 3 clics seulement**
