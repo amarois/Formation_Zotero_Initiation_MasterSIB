@@ -1,8 +1,8 @@
-# Formation Zotero - Master SIB - décembre 2022
+# Formation Zotero - Master SIB - décembre 2023
 
 ```
-*Mise à jour** : 13 décmebre 2022
-**Version** : V1
+*Mise à jour** : 13 décembre 2023
+**Version** : V2
 ```
 
 ## Installer Zotero
@@ -44,16 +44,18 @@ Dans la foulée, et si vous optez pour ouvrir Zotero juste après l'installation
 
 **Note 3** : nous vérifierons ensemble et testerons lors de la séance le plugin de votre traitement de texte.
 
-## TD (Matin)
+## TD PARTIE 1 : principales fonctionnalités de Zotero
 ### Collecter des références
-#### Via le connecteur
-Consigne : [utilisez l'extension Zotero](https://www.zotero.org/support/adding_items_to_zotero#via_your_web_browser) (*connector*) de votre navigateur pour collecter les références des ressources pointées ci-dessous :
+#### Se familiariser avec le connecteur Zotero
+``` Consigne : [utilisez l'extension Zotero](https://www.zotero.org/support/adding_items_to_zotero#via_your_web_browser) (*connector*) de votre navigateur pour collecter les références des ressources pointées ci-dessous : ```
 
-1. [https://www.cairn.info/revue-i2d-information-donnees-et-documents-2022-1-page-8.htm](https://www.cairn.info/revue-i2d-information-donnees-et-documents-2022-1-page-8.htm)
-2. [https://books.openedition.org/oep/14732](https://books.openedition.org/oep/14732)
-3. [https://www.theses.fr/2021HESAC031](https://www.theses.fr/2021HESAC031)
-4. https://www.sudoc.fr/257245073
-5. [https://dumas.ccsd.cnrs.fr/dumas-03878231](https://dumas.ccsd.cnrs.fr/dumas-03878231)
+1. Un article de revue [https://www.cairn.info/revue-i2d-information-donnees-et-documents-2022-1-page-8.htm](https://www.cairn.info/revue-i2d-information-donnees-et-documents-2022-1-page-8.htm)
+2. Un chapitre de livre [https://books.openedition.org/oep/14732](https://books.openedition.org/oep/14732)
+3. Une thèse [https://www.theses.fr/2021HESAC031](https://www.theses.fr/2021HESAC031)
+4. Un livre [https://www.sudoc.fr/257245073](https://www.sudoc.fr/257245073)
+5. Un mémoire d'étudiant [https://dumas.ccsd.cnrs.fr/dumas-03878231](https://dumas.ccsd.cnrs.fr/dumas-03878231)
+6. Une vidéo [https://youtu.be/pEKdZvMVoxs?si=7MFqLMR7GZWWBfFC](https://youtu.be/pEKdZvMVoxs?si=7MFqLMR7GZWWBfFC)
+7. Un article de journal [https://www.lemonde.fr/culture/article/2023/09/30/l-intelligence-artificielle-et-la-culture-les-machines-sont-elles-nos-amies_6191755_3246.html](https://www.lemonde.fr/culture/article/2023/09/30/l-intelligence-artificielle-et-la-culture-les-machines-sont-elles-nos-amies_6191755_3246.html)
 
 Bonus : importez les 10 premières références sur la page de résultats Google Scholar pointée par ce lien **en 3 clics seulement**
 
@@ -61,8 +63,8 @@ Bonus : importez les 10 premières références sur la page de résultats Google
 
 ([indice](https://www.zotero.org/support/adding_items_to_zotero#multiple_results))
 
-#### Via un identifiant
-Consigne : utilisez la fonction d'import à partir d'un identifiant pour récupérer les métadonnées des ressources correspondantes :
+#### Récupérer une référence via un identifiant
+```Consigne : utilisez la fonction d'import à partir d'un identifiant pour récupérer les métadonnées des ressources correspondantes :```
 
 - un ISBN : **979-10-97088-37-8**
 - un DOI : **10.1038/508312a**
@@ -73,44 +75,67 @@ Consigne : utilisez la fonction d'import à partir d'un identifiant pour récup�
 
 **Bonus** : importez la référence suivante : **10.1109/SHUSER.2012.6268849** . Que remarquez-vous ?
 
-#### Récupération via des PDF
-Consigne 1 :  pointez le lien ci-dessous, télécharger le fichier **pdf_to_zotero.zip**, décompressez le sur votre disque dur,  glissez-déposez les pdf dans votre Zotero
+#### Récupérer des références via les PDF des dites références déjà enregistrés sur son disque
+```Consigne 1 :  pointez le lien ci-dessous, télécharger le fichier **pdf_to_zotero.zip**, décompressez le sur votre disque dur,  glissez-déposez les pdf dans votre Zotero```
 
-- [https://bul.univ-lyon2.fr/index.php/s/58D8G8rW4VLBq0L](https://bul.univ-lyon2.fr/index.php/s/58D8G8rW4VLBq0L)
+- [https://drive.google.com/file/d/1fenSv6C6_g4J817fLkCn9q3sGh7RDlrW/view?usp=sharing](https://drive.google.com/file/d/1fenSv6C6_g4J817fLkCn9q3sGh7RDlrW/view?usp=sharing)
 
-Consigne 2 : tentez de glisser-déposer un ou des PDF présents sur votre disque dur depuis votre explorateur de fichiers vers Zotero. Le résultat variera selon l'origine des fichiers choisis; examinez le résultat.
+```Consigne 2 : tentez de glisser-déposer un ou des PDF présents sur votre disque dur depuis votre explorateur de fichiers vers Zotero. Le résultat variera selon l'origine des fichiers choisis; examinez le résultat.```
 
-#### Via un import de fichier de références structuré
+#### Récupérer des références via un import de fichier structuré
 **Cas d'école** : on vous *partage* une bibliographie complète dans [un format "Zotero compatible"](https://www.zotero.org/support/kb/importing_standardized_formats) ! Téléchargez le fichier compressé suivant - à décompresser sur votre poste - puis utilisez la fonction d'**import** de Zotero pour récupérer l'ensemble des références et fichiers joints
 
-- [https://bul.univ-lyon2.fr/index.php/s/c6wQgyBe2zlnLGW](https://bul.univ-lyon2.fr/index.php/s/c6wQgyBe2zlnLGW)
+- [https://drive.google.com/file/d/1NrUgzA1jujnMsP43b0CrjefoixES9TaX/view?usp=sharing](https://drive.google.com/file/d/1NrUgzA1jujnMsP43b0CrjefoixES9TaX/view?usp=sharing)
 
 (indice : Fichier > Importer... ; pour l'import, choisissez le fichier "Documents exportés.rdf"; dans le processus, **gardez bien cochée** l'option "Placer les collections et les documents importés dans une nouvelle collection")
 
+#### Attacher un fichier (PDF, etc) à une référence déjà récupérer
+```
+Consigne : choisir une référence dans votre Zotero et y... :
+```
+- "joindre une copie enregistrée d'un fichier"
+- "joindre un lien vers un fichier..."
 
-### Organiser sa bibliothèque
-Vous voilà avec tout un tas de références hétéroclites. Organisez un peu tout cela.
+Que remarquez-vous (icônes) ? Que se passe-t-il si vous déplacez le fichier lié ?
+
+### Organiser sa bibliothèque, utiliser les notes
+Vous voilà avec tout un tas de références hétéroclites. Nous allons organiser un peu votre bibliothèque.
 
 Dans votre bibliothèque Zotero :
 
-1. **[Créez une Collection](https://www.zotero.org/support/collections_and_tags#creating_collections)** nommée "OSINT".
-2. Revenez au niveau de Ma bibliothèque pour afficher toutes les références. **Triez** les références par la colonne Type de documents. **Sélectionnez** toutes celles traitant d'OSINT (Ctrl+clic ou Shift+clic).
-3. **[Glissez-déposez](https://www.zotero.org/support/collections_and_tags#adding_items_to_collections)** les références dans la collection "OSINT".
-4. Suite à l'import précédent, vous devriez avoir une collection "Documents exportés". **Renommez**-la en "Tutos Zotero".
-5. **Créez un marqueur "A_Lire"**. Ajoutez-le à quelques références. Dans le panneau des marqueurs, attribuez-lui une couleur. Ouvrez la recherche avancée. Cherchez le marqueur "A_Lire". Enregistrez la recherche : toutes vos références à lire doivent s'y retrouver automatiquement.
+1. Création de collection :
+    - **[Créez une Collection](https://www.zotero.org/support/collections_and_tags#creating_collections)** nommée "OSINT".
+2. Rangement : Revenez au niveau de Ma bibliothèque pour afficher toutes les références.
+    - **Triez** les références par la colonne Type de documents (si vous n'aviez pas cette colonne [ajoutez](https://www.zotero.org/support/sorting) la à l'interface Zotero).
+    - **Sélectionnez** toutes celles traitant d'OSINT (Ctrl+clic ou Shift+clic).
+    -  **[Glissez-déposez](https://www.zotero.org/support/collections_and_tags#adding_items_to_collections)** les références dans la collection "OSINT".
+4. Renommage : suite à l'import précédent, vous devriez avoir une collection "Documents_exportes".
+    - **Renommez**-la en "Tutos Zotero".
+5. Marqueurs/tag :
+    - **Créez un marqueur "A_Lire"**.
+    - Ajoutez-le à quelques références.
+    - Dans le panneau des marqueurs, attribuez-lui une [couleur](https://www.zotero.org/support/collections_and_tags#colored_tags).
+    - Ouvrez la [recherche avancée](https://www.zotero.org/support/searching#advanced_search). Cherchez le marqueur "A_Lire". Enregistrez la recherche : toutes vos références à lire doivent s'y retrouver automatiquement.
+    - Dans le panneau des marqueurs, recherchez le marqueur _toread : renommez le en A_Lire
+    - Dans le panneau des marqueurs, [supprimez](https://www.zotero.org/support/collections_and_tags#removing_tags_from_items) les marqueurs inutiles
+6. Notes : ajoutez une note fille à une des référence
+    - créez la note et ajoutez au moin une ligne
+    - ajoutez un marqueur/tag "A_terminer" à la note
 
 Astuce : il est vivement conseillé de désactiver l'import automatique de marqueurs avec les références en décochant la case correspondante dans Préférences > Générales. Ainsi vous utiliserez plus efficacement cette fonctionnalité avec vos marqueurs personnels.
 
 Voir notamment : [Collections and Tags](https://www.zotero.org/support/collections_and_tags "collections_and_tags") | [Searching](https://www.zotero.org/support/searching "searching")
 
-### Notes et PDF
+### Annotation de PDF et notes
+Le lecteur de PDF intégré à Zotero permet d'annoter les fichiers de trois manières : surligner un passage de texte, ajouter une note (commentaire flotant) et sélectionner une zone. Les annotations réalisées peuvent ensuite, si l'on veut, être ajouter à une ou des notes filles liées à la référence.
 
-1. Importez dans Zotero  Wilkinson Mark D., Dumontier Michel, Aalbersberg IJsbrand Jan et al., « The FAIR Guiding Principles for scientific data management and stewardship », _Scientific Data_ 3, 15.03.2016. En ligne: <https://doi.org/10.1038/sdata.2016.18>, consulté le 12.12.2017.
+1. Si vous ne l'avez pas déjà, importez dans Zotero : Wilkinson Mark D., Dumontier Michel, Aalbersberg IJsbrand Jan et al., « The FAIR Guiding Principles for scientific data management and stewardship », _Scientific Data_ 3, 15.03.2016. <https://doi.org/10.1038/sdata.2016.18>.
 2. Ouvrez le PDF dans le lecteur Zotero
-3. Page 1, sélectionnez et surlignez en rouge le passage où les auteurs exposent leur vision de ce à quoi doit s'appliquer les principes FAIRs (_"Importantly, it is our intent that the principles apply not only to ‘data’ in the conventional sense,..."_)
+3. Page 1, [sélectionnez et surlignez](https://www.zotero.org/support/pdf_reader#creating_annotations) en rouge le passage où les auteurs exposent leur vision de ce à quoi doit s'appliquer les principes FAIRs (_"Importantly, it is our intent that the principles apply not only to ‘data’ in the conventional sense,..."_)
 4. Page 2, repérez le passage où il est question du potentiel computationnel des données de recherche (_"Humans, however, are not the only critical stakeholders in the milieu of scientific data...."_) et ajoutez une note à ce niveau.
 5. Page 4,  encadrez la _Box 2 : The FAIR guiding principles_, et ajoutez une commentaire dans le panneau de gauche sous la note signalant que dès F2 il est question de R1 et de l'importance des métadonnées;  R1.3.
-6. Ajoutez un marqueur à cette image encadrée
+6. Ajoutez un marqueur "Principes-FAIR" à cette image encadrée
+7. Générez une note fille regroupant automatiquement le contenu de [vos annotations](https://www.zotero.org/support/pdf_reader#adding_annotations_to_notes) réalisées sur le PDF
 
 ### Les styles bibliographiques : ajouter un style, utiliser un style, changer de style bibliographique
 #### Utiliser des styles
@@ -118,7 +143,7 @@ Zotero s'installe avec une liste réduite de styles bibliographiques de base. Vo
 
 1. Choisissez un des documents word ci-dessous. Ouvrez-le dans votre traitement de texte.
 2. Téléchargez et ouvrez le modèle PDF correspondant (...APA... ou ...VANCOUVER...)
-3. Cherchez et intégrez les références bibliographiques nécessaires sur le web et intégrez les à votre bibliothèque Zotero.
+3. Dans le document Word : cherchez et intégrez les références bibliographiques nécessaires sur le web et intégrez les à votre bibliothèque Zotero.
 4. A l'aide du [plugin Zotero](https://www.zotero.org/support/word_processor_plugin_usage) > **Add/Edit citation**, réalisez les appels de citations dans le texte aux bons endroits.
 5. Ajoutez "Bibliographie" après le texte et générez la bibliographie avec le plugin Zotero > **[Add/Edit Bibliography](https://www.zotero.org/support/word_processor_plugin_usage#bibliography)**.
 6. BONUS :  téléchargez l'autre modèle. Modifiez le style bibliographique de votre document word pour vous conformer à ce nouveau modèle. Constatez les différences. Les appels de citation et la bibliographie sont modifiés avec le nouveau style ! La forme change, le fond est conservé.
@@ -139,7 +164,7 @@ Style VANCOUVER :
 2. Dans la fenêtre "Zotero style repository" qui s'ouvre, cherchez le style **Triangle (Français)**. Cliquez sur le lien "Triangle (Français)" pour l'installer. Retournez dans l'onglet Citer, vérifiez que le style Triangle (Français) est bien présent dans le **Gestionnaire de styles**.
 3. Retournez dans un des documents word d'exercice et changez le style de citation via **[Document Preferences](https://www.zotero.org/support/word_processor_plugin_usage#document_preferences)**. Choisir Triangle (Français). 
 
-Astuce : c'est à ce stade (l'édition d'une bibliographie mise en forme) souvent que l'on voit des coquilles (auteurs orthographiés différemment, coquilles dans les titres, "p." en trop, etc. ). Prenez l'habitude dans ce cas d'aller corriger _à la source, dans votre bibliothèque Zotero_ les erreurs, puis cliquez dans votre document sur Refresh au niveau du plugin Zotero. Ainsi, vous **capitalisez votre travail** de relecture en prenant soin de votre base de références.
+Astuce : c'est à ce stade (l'édition d'une bibliographie mise en forme) souvent que l'on voit des coquilles (auteurs orthographiés différemment, **coquilles** dans les titres, auteurs, "p." en trop, etc. ). Prenez l'habitude dans ce cas d'aller corriger _à la source, dans votre bibliothèque Zotero_ les erreurs, puis cliquez dans votre document sur [Refresh](https://www.zotero.org/support/word_processor_plugin_usage) au niveau du plugin Zotero. Ainsi, vous **capitalisez sur votre travail** de relecture en prenant soin de votre base de références !
 
 Remarque : un stratégie pour trouver un style précis peut être de partir d'une bibliographie déjà formatée, à laquelle on voudrait "coller", par exemple sur un PDF d'éditeur, et utiliser l'outil "[Search by example](https://editor.citationstyles.org/searchByExample/)". 
 
@@ -170,7 +195,7 @@ Prenez l'habitude, régulièrement de nettoyer votre vos références :
 **Pour aller plus loin** : Daniel Johanna, « Ranger Zotero, un chantier idéal pour chercheur confiné ! (1) », Isidore & Ganesh, 17 avril 2020, consulté le 17 avril 2020, URL :  https://ig.hypotheses.org/2180.
 Daniel Johanna, « Ranger Zotero, un chantier idéal pour chercheur confiné ! (2) », Isidore & Ganesh, consulté le 20 janvier 2021, URL :  https://ig.hypotheses.org/2299.
 
-## TD (après-midi)
+## TD PARTIE 2 : aller plus loin avec Zotero
 ###  Les plugins Zotero : installez, testez
 Repartissez vous en 4 ou 5 groupes, choisissez un plugin parmi la liste suivante; installez le, testez le (ou parcourez rapidement la doc.) et préparer un retour très rapide pour l'ensemble de la classe : à quoi sert-il ? cas d'usages possibles ? limites ? 
 
@@ -186,13 +211,14 @@ Page dédiée au plugin sur le doc. Zotero : [https://www.zotero.org/support/plu
 
 ###  Collaborez au sein d'un groupe Zotero
 
-Consigne : expérimentez la collaboration au sein d'un groupe Zotero en demandant à faire partie du groupe suivant
+```Consigne : expérimentez la collaboration au sein d'un groupe Zotero en demandant à faire partie du groupe :```
 
-1. Connectez-vous sur [zotero.org/user/login](https://www.zotero.org/user/login/)https://www.zotero.org/user/login/
+1. Connectez-vous sur Zotero.org [https://www.zotero.org/user/login/](https://www.zotero.org/user/login/)
 2. Trouvez le groupe "Formation_gestionbiblio" via la recherche sur zotero.org
 3. Demandez à intégrer le groupe en cliquant sur "join"
+4. Attendez que le formateur valide votre demande (si besoin, faites des grands signes et du bruit)
 
-Sujet (proposition pour le 15/12/2022) : **"Veille sur ChatGPT : technologie, applications, impact sociétaux"**
+Sujet (proposition pour le 14/12/2023) : **"Veille sur ChatGPT : technologie, applications, impact sociétaux"**
 
 ![58a341e9047d2c80d73dffe15a59b265.png](img/58a341e9047d2c80d73dffe15a59b265.png)
 
