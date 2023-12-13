@@ -152,7 +152,7 @@ Zotero s'installe avec une liste réduite de styles bibliographiques de base. Vo
 
 Style APA : 
 - [zotero_citer_APA_EXERCICE.docx](zotero_citer_APA_EXERCICE.docx)
-- [zotero_citer_APA_EXERCICE.docx](zotero_citer_APA_EXERCICE.docx)
+- [zotero_citer_APA_MODELE.pdf](zotero_citer_APA_MODELE.pdf)
 
 Style VANCOUVER : 
 - [zotero_citer_VANCOUVER_EXERCICE.doc](zotero_citer_VANCOUVER_EXERCICE.doc)
